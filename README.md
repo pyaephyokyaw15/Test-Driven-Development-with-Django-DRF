@@ -1,2 +1,6 @@
 # Test-Driven-Development-with-Django-DRF
-Test Driven Development with Django
+
+
+# References
+
+* https://testdriven.io/courses/tdd-django/intro/
